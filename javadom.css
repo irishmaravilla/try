@@ -1,0 +1,17 @@
+/* Selector{
+    Property: value;
+} */
+
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(to bottom right, blue, red);
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
