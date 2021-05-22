@@ -1,4 +1,4 @@
 # TRY PROJECT
 ## Introduction
-##Purpose
-##How to contribute
+## Purpose
+## How to contribute
